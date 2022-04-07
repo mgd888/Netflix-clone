@@ -21,7 +21,7 @@ const Home: NextPage = () => {
     ];
 
     return (
-        <div>
+        <div tw="overflow-x-hidden">
             <div tw="w-screen flex flex-col justify-center items-center overflow-x-hidden bg-gradient-to-b from-black">
                 <NavBar />
                 <div tw="fixed h-screen w-screen overflow-x-hidden">
