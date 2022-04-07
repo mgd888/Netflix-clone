@@ -17,7 +17,7 @@ const Navigation = () => {
                 <div tw="mt-6 ml-3 sm:mt-8 flex  ">
                     <div>
                         {/* <Image src="/globe.svg" height={20} width={20} /> */}
-                        <select tw="h-8 w-24 mr-2 sm:mr-8 bg-black/75 border rounded-sm">
+                        <select tw="h-8 w-24 mr-2 sm:mr-8 bg-black/30 border rounded-sm">
                             <option
                                 lang="en"
                                 value="/ca/"
