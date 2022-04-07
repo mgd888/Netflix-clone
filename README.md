@@ -1,6 +1,6 @@
-## NextJS :: Netflix Clone Tailwind/MUI Template
+## NextJS :: All-in-One Tailwind/MUI Template
 
-![](https://i.imgur.com/GPRvn3T.png)
+![](https://i.imgur.com/4TawzRx.png)
 
 ## Added
 
@@ -14,7 +14,7 @@
 
 ## Example Code
 
-![](https://i.imgur.com/hmRXLgP.png)
+![](https://i.imgur.com/eiVWcNs.png)
 
 ## Getting Started
 
