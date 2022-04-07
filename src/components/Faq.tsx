@@ -29,17 +29,17 @@ You can also download your favorite shows with the iOS, Android, or Windows 10 a
 
 Kids profiles come with PIN-protected parental controls that let you restrict the maturity rating of content kids can watch and block specific titles you don’t want kids to see."/>
             </div>
-            <p tw="text-[19.2px] sm:leading-[55px] sm:px-10 mb-2 font-normal pt-10">
+            <p tw="sm:text-[19.2px] sm:leading-[55px] px-5 sm:px-10 mb-2 font-normal pt-10">
                 Ready to watch? Enter your email to create or restart your
                 membership.
             </p>
-            <div tw="flex justify-center w-[70%]">
+            <div tw="flex justify-center w-[70%] mb-5">
                 <input
-                    tw="text-black md:w-[50%] border-black md:p-[20px]"
+                    tw="text-black md:w-[50%] border-black p-1 md:p-[16px]"
                     placeholder="Email address"
                     
                 />
-                <button tw="bg-[#e50914] w-[20%] border-black p-2 md:text-[24px] flex items-center justify-around">
+                <button tw="bg-[#e50914] w-[20%] border-black p-2 text-[12px] md:text-[18px] flex items-center justify-around">
                     Get Started
                     <Image src={arrow} width={24} height={24}></Image>
                 </button>

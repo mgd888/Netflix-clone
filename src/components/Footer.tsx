@@ -57,58 +57,6 @@ const Footer = () => {
                 </div>
                 
 
-                {/* <table tw="w-[100%]">
-                    <tr>
-                        <td>FAQ</td>
-                        <td>Help Center</td>
-                        <td>Account</td>
-                        <td>Media Center</td>
-                    </tr>
-                    <tr>
-                        <td>Investor Relations</td>
-                        <td>Jobs</td>
-                        <td>Redeem Gift Cards</td>
-                        <td>Buy Gift Cards</td>
-                    </tr>
-                    <tr>
-                        <td>Ways to watch</td>
-                        <td>Terms of Use</td>
-                        <td>Privacy</td>
-                        <td>Cookie Preferences</td>
-                    </tr>
-                    <tr>
-                        <td>Corporate Information</td>
-                        <td>Contact Us</td>
-                        <td>Speed Test</td>
-                        <td>Legal Notices</td>
-                    </tr>
-                    <tr>
-                        <td>Only on Netflix</td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <select tw="h-8 w-24 mr-2 sm:mr-8 my-5 bg-black/30 border rounded-sm">
-                                <option
-                                    lang="en"
-                                    value="/ca/"
-                                    data-language="en"
-                                    data-country="CA"
-                                >
-                                    English
-                                </option>
-                                <option
-                                    lang="fr"
-                                    value="/ca-fr/"
-                                    data-language="fr"
-                                    data-country="CA"
-                                >
-                                    Français
-                                </option>
-                            </select>
-                        </td>
-                    </tr>
-                    <tr>Netflix Canada</tr>
-                </table> */}
             </div>
         </div>
     );
